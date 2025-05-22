@@ -1,0 +1,12 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.1",
+    "pyaudio>=0.2.14",
+    "pyttsx3>=2.98",
+    "speechrecognition>=3.14.3",
+]
